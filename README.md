@@ -15,5 +15,5 @@ Welcome to my **Continuous-Learning** repository! This is a living, breathing ch
 This repository serves dual purposes:
 
 1. It allows me to track my learning progress, acting as a kind of public learning diary. Every new concept or technology I learn is logged here.
-2. It provides a useful resource for other learners, who can leverage this material for their own learning journey. If I can make someone else's journey even a little bit easier, I consider it a success!
+2. It provides a useful resource for other learners, who can leverage this material for their own learning journey.
 
